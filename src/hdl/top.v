@@ -1,17 +1,14 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: Digilent
+// Engineer: Arthur Brown
 // 
 // Create Date: 11/17/2017 11:59:14 AM
-// Design Name: 
 // Module Name: top
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
+// Project Name: Sword Keypad
+// Target Devices: Sword Board
+// Tool Versions: Vivado 2016.4
+// Description: implements a basic algorithm to read the state of the 25-button keypad of the sword board.
 // 
 // Revision:
 // Revision 0.01 - File Created
